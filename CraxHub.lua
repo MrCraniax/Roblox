@@ -2,8 +2,8 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHept
 local Window = Library.CreateLib("CraxHub", "LightTheme")
 
 -- MAIN --
-local Main = Window:NewTab("Main")
-local MainSection = Main:NewSection("HACK")
+local Main = Window:NewTab("ᴍᴀɪɴ")
+local MainSection = Main:NewSection("【Hack】")
 
 
 MainSection:NewButton("Fly", "Make You Fly!", function()

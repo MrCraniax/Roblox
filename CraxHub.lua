@@ -14,6 +14,10 @@ MainSection:NewButton("Invisible", "Press E To Make You Invisible!", function()
     loadstring(game:HttpGet('https://pastebin.com/raw/m3zMug2t'))()
 end)
 
+MainSection:NewButton("Speed", "Make You Fast!", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/cruUwxaW'))()
+end)
+
 MainSection:NewButton("Admin Commands", "Make You Admin!", function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 end)

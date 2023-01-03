@@ -8,5 +8,5 @@ local CoreSection = Core:NewSection("【Hack】")
 
 -- HACK --
 CoreSection:NewButton("Fly", "Make You Fly!", function()
-    loadstring(game:HttpGet('https://pastebin.com/raw/fHLEhSLZ'))()
+    loadstring(game:HttpGet('https://pastebin.com/raw/Xmnf1PuY'))()
 end)

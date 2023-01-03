@@ -18,5 +18,5 @@ local CoreSection = Core:NewSection("【Help】")
 
 
 -- DISCORD --
-CoreSection:NewButton("Discord.gg/2642uHVP", "Join The Discord!", function()
+CoreSection:NewButton("Discord.gg/cwU62EQW", "Join The Discord!", function()
 end)

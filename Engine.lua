@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Engine | Craniax#3936", "LightTheme")
+local Window = Library.CreateLib("Shark X | Craniax#3936", "LightTheme")
 
 
 -- PRINCIPAL --
